@@ -1,2 +1,3 @@
 # data_profession_indonesia
-Demand on data related profession in Indonesia
+Vacancy of Data Related Profession in Indonesia
+Based on Vacancy in linkedIn at September 2022
